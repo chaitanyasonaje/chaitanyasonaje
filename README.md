@@ -19,5 +19,5 @@
 - 💼 I'm open to collaborating on AI/ML projects, hackathons, or web development.
 - 📫 Reach me via:  
   - **Email:** [chaitanyasonaje0205@gmail.com]  
-  - **LinkedIn:** [Chaitanya Sonaje](https://www.linkedin.com/in/chaitanya-sonaje-9a3293257/)]
+  - **LinkedIn:** [[Chaitanya Sonaje](https://www.linkedin.com/in/chaitanya-sonaje-9a3293257/)]
 
