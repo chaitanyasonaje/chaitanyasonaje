@@ -3,7 +3,7 @@
 🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
 📍 R. C. Patel Institute of Technology, Shirpur (2022–2026)  
 📧 [chaitanyasonaje0205@gmail.com](mailto:chaitanyasonaje0205@gmail.com)  
-🌐 [Portfolio](https://chaitanyasonajeportfolio.netlify.app/) • [GitHub](https://github.com/chaitanyasonaje) • [LinkedIn](https://www.linkedin.com/in/chaitanya-sonaje-9a3293257/) • [Kaggle](https://www.kaggle.com/chaitanya205)
+🌐 [Portfolio](https://chaitanyasonajeportfolio.vercel.app/) • [GitHub](https://github.com/chaitanyasonaje) • [LinkedIn](https://www.linkedin.com/in/chaitanya-sonaje-9a3293257/) • [Kaggle](https://www.kaggle.com/chaitanya205)
 
 ---
 
